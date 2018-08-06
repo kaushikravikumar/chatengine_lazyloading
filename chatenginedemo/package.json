@@ -1,0 +1,14 @@
+{
+  "name": "chatenginedemo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kau",
+  "license": "ISC",
+  "dependencies": {
+    "chat-engine": "github:pubnub/chat-engine#fix-search-numpage-update"
+  }
+}
